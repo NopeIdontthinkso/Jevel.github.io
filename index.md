@@ -1,7 +1,7 @@
 A SIMPLE SPACE GAME IN UNITY
 =
 
-[click to play]()
+[click to play](something_v1/index.html)
 
 
 
